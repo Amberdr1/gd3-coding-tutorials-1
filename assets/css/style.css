@@ -24,6 +24,13 @@ body {
   cursor: pointer;
 }
 
+.list__item__header:hover { 
+  color: rgb(255, 136, 0);
+  font-size: larger;
+}
+
+
+
 .list__item__artist {
   font-size: 10px;
   white-space: nowrap;
